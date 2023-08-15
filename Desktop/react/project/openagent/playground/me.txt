@@ -1,5 +1,0 @@
-{{#user}
-Name: Sunny
-Skills: Html,CSS,JavaScript,ReactJs
-Email: 526sunnysinghcse1@gmail.com
-{{/user}}
